@@ -1,0 +1,12 @@
+.text-lazy-loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.text-lazy-loading h1{
+    font-size: 40px;
+    color: blueviolet;
+   
+}
